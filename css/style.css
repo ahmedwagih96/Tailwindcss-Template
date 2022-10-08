@@ -551,13 +551,10 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-<<<<<<< HEAD:css/style.css
-=======
 .absolute {
   position: absolute;
 }
 
->>>>>>> 8ea6f5c (adding mobile menu):build/css/style.css
 .relative {
   position: relative;
 }
@@ -625,13 +622,6 @@ video {
   width: 66.666667%;
 }
 
-<<<<<<< HEAD:css/style.css
-.w-full {
-  width: 100%;
-}
-
-=======
->>>>>>> 8ea6f5c (adding mobile menu):build/css/style.css
 .w-48 {
   width: 12rem;
 }
@@ -644,14 +634,6 @@ video {
   max-width: 28rem;
 }
 
-<<<<<<< HEAD:css/style.css
-.scroll-mt-40 {
-  scroll-margin-top: 10rem;
-}
-
-.scroll-mt-20 {
-  scroll-margin-top: 5rem;
-=======
 .origin-top {
   transform-origin: top;
 }
@@ -691,11 +673,10 @@ video {
 
 .cursor-pointer {
   cursor: pointer;
->>>>>>> 8ea6f5c (adding mobile menu):build/css/style.css
 }
 
-.scroll-mt-16 {
-  scroll-margin-top: 4rem;
+.scroll-mt-40 {
+  scroll-margin-top: 10rem;
 }
 
 .scroll-mt-20 {
@@ -808,14 +789,11 @@ video {
 
 .p-3 {
   padding: 0.75rem;
-<<<<<<< HEAD:css/style.css
-=======
 }
 
 .px-6 {
   padding-left: 1.5rem;
   padding-right: 1.5rem;
->>>>>>> 8ea6f5c (adding mobile menu):build/css/style.css
 }
 
 .py-8 {
@@ -1068,11 +1046,6 @@ video {
   background-color: rgb(20 184 166 / var(--tw-bg-opacity));
 }
 
-.active\:bg-teal-500:active {
-  --tw-bg-opacity: 1;
-  background-color: rgb(20 184 166 / var(--tw-bg-opacity));
-}
-
 @media (prefers-color-scheme: dark) {
   .dark\:border-none {
     border-style: none;
@@ -1159,11 +1132,6 @@ video {
 }
 
 @media (min-width: 768px) {
-<<<<<<< HEAD:css/style.css
-  .md\:flex {
-    display: flex;
-  }
-=======
   .md\:block {
     display: block;
   }
@@ -1175,7 +1143,6 @@ video {
   .md\:hidden {
     display: none;
   }
->>>>>>> 8ea6f5c (adding mobile menu):build/css/style.css
 }
 
 @media (min-aspect-ratio: 3/2) {
@@ -1184,11 +1151,7 @@ video {
   }
 }
 
-<<<<<<< HEAD:css/style.css
-@media (min-aspect-ratio: 1/2) {
-=======
 @media (min-aspect-ratio: 13/20) {
->>>>>>> 8ea6f5c (adding mobile menu):build/css/style.css
   .tallscreen\:section-min-height {
     min-height: calc(100vh - 68px);
   }
